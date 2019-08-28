@@ -4,6 +4,7 @@
 
 # ASActivityIndicator
 Activity Indicator for iOS app.
+Suggestions / correction / pullrequests are always welcome. 😊
 
 ## Requirements
 * iOS 8.0 or higher (May work on previous versions, just did not testit. Feel free to edit it).
